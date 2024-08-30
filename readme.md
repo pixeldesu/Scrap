@@ -2,7 +2,7 @@
 A high performance file upload solution for ShareX.
 
 ## Requirements
-Scrap is powered by `php7.2`, `redis-server` and `mysql-server`.  
+Scrap is powered by `php8.2`, `redis-server` and `mysql-server`.  
 You must have these installed on your system in order for scrap to work.
 
 If you tweak your memory limit on memcached, you can also use that if specified in the `.env`
